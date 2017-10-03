@@ -1,0 +1,27 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Briefcase\ShellNew]
+"IconPath"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,\
+  74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,73,\
+  00,79,00,6e,00,63,00,75,00,69,00,2e,00,64,00,6c,00,6c,00,2c,00,30,00,00,00
+"ItemName"=hex(2):40,00,25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,\
+  6f,00,74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,\
+  00,73,00,68,00,65,00,6c,00,6c,00,33,00,32,00,2e,00,64,00,6c,00,6c,00,2c,00,\
+  2d,00,36,00,34,00,39,00,33,00,00,00
+"Directory"=""
+"Handler"="{85BBD920-42A0-1069-A2E4-08002B30309D}"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Briefcase\ShellNew\Config]
+"IsFolder"=""
+"NoExtension"=""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion]
+"ProgramFilesDir"="D:\\Program Files"
+"CommonFilesDir"="D:\\Program Files\\Common Files"
+"ProgramFilesDir (x86)"="D:\\Program Files (x86)"
+"CommonFilesDir (x86)"="D:\\Program Files (x86)\\Common Files"
+"CommonW6432Dir"="D:\\Program Files\\Common Files"
+"ProgramW6432Dir"="D:\\Program Files"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System]
+"VerboseStatus"=dword:00000001
