@@ -1,2 +1,2 @@
 # Briefcase
-Enable briefcase feature
+Enable or disable briefcase feature
